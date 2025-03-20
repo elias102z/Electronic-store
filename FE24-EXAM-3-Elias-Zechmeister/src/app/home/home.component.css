@@ -1,0 +1,9 @@
+/* home.component.css */
+.hero-section {
+    height: 600px;
+    overflow: hidden;
+  }
+  
+  .bi {
+    font-size: 1.2rem;
+  }
